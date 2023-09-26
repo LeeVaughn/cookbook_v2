@@ -19,7 +19,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 
 ## LeMUR 🐾
 [LeMUR quickstart (Google Colab)](lemur/lemur-quickstart-python.ipynb)  
-[Extract citations from a transcript with OpenAI Embeddings](lemur/transcript-citations.ipynb)
+[Extract citations from a transcript with AssemblyAI and OpenAI Embeddings](lemur/transcript-citations.ipynb)
 
 ## SDKs and other resources 📚
 [Python SDK](https://github.com/AssemblyAI/assemblyai-python-sdk)
